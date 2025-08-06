@@ -15,9 +15,9 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Charadex",
-  url: "https://charadex-team.github.io/charadex-v1.0/",
-  description: `A tool for organizing small ARPGs and species.`
+  title: "Skulleid Masterlist",
+  url: "https://www.skulleidmasterlist.com/",
+  description: `A masterlist for the Skulleid closed species!`
 }
 
 /* ==================================================================== */
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "1GwgfLizD3HQCieGia6di-TfU4E3EipT9Jb0BDZQwNak",
+  id: "1u3d_sgvpaCxpdPaBof61hmBa4vjg9DBfwtVFYeC3krk",
 
   pages: {
     masterlist:    "masterlist",
@@ -44,10 +44,10 @@ charadex.sheet = {
 
     designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
-    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary'],
-    species: ['All', 'Dog', 'Cat', 'Bunny'],
-    itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
-    traitTypes: ['All', 'Ears', 'Eyes', 'Body', 'Limbs', 'Tails', 'Misc', 'Mutations']
+    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Ultra Rare', 'Event'],
+    species: ['All', 'Skulleid', 'Merskullies', 'Sugar Skullies', 'Plant Skullies'],
+    itemTypes: ['All', 'Currency', 'MYO Slot', 'Trait', 'Misc'],
+    traitTypes: ['All', 'Horns', 'Eyes', 'Bones', 'Skin', 'Ears', 'Extras', 'Mutations', 'Event']
 
   }
 
