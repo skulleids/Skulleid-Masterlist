@@ -44,7 +44,7 @@ charadex.sheet = {
 
     designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
-    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Ultra Rare', 'Event'],
+    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Ultra Rare', 'Legendary', 'Mutation', 'Event'],
     species: ['All', 'Skulleid', 'Merskullies', 'Sugar Skullies', 'Plant Skullies'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Trait', 'Misc'],
     traitTypes: ['All', 'Horns', 'Eyes', 'Bones', 'Skin', 'Ears', 'Extras', 'Mutations', 'Event']
