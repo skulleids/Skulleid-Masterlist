@@ -15,8 +15,8 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Skulleid Masterlist",
-  url: "https://www.skulleidmasterlist.com/",
+  title: "Skulleids",
+  url: "https://www.skulleids.com/",
   description: `A masterlist for the Skulleid closed species!`
 }
 
