@@ -46,7 +46,7 @@ charadex.sheet = {
     statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
     rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Ultra Rare', 'Legendary'],
     species: ['All', 'Skulleid','Merskullies', 'Sugar Skullies', 'Plant Skullies'],
-    itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
+    itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc', 'Bones'],
     traitTypes: ['All', 'Horns', 'Eyes', 'Bones', 'Skin', 'Ears', 'Extra', 'Mutations']
 
   }
